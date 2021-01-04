@@ -16,3 +16,16 @@
 
 ```
 ## - [click hear to see video](https://www.awesomescreenshot.com/video/2188768?key=09d6c0dc7b2e052c92b4774b495e7687)
+
+## Project 3 
+- chat app
+```
+- singup page 
+- login page
+- logout page
+- chat rooms
+- for user data use MongoDB
+- react
+- socket.io
+
+```
