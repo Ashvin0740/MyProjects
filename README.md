@@ -3,6 +3,10 @@
 ## Project 1 [first project]
 
 * Color-Selector
+```
+- find any random color
+- color finder
+```
 
 ## - [click hear to see live demo](https://rendom-color-fselector.netlify.app/)
 
@@ -30,9 +34,12 @@
 
 ```
 ## Project 4
- ### user-profile-finder
+* user-profile-finder
+```
  -find any github user profile
  - using github API
+ 
+ ```
  
  ## - [Click hear to see live demo](https://github-profile-finder4.netlify.app/)
 
