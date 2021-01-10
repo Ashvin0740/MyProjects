@@ -34,5 +34,5 @@
  -find any github user profile
  - using github API
  
-<!- ## - [click hear to see video](https://www.awesomescreenshot.com/video/2188768?key=09d6c0dc7b2e052c92b4774b495e7687)
--->
+ ## - [Click hear to see live demo](https://github-profile-finder4.netlify.app/)
+
